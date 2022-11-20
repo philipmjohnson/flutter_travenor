@@ -4,10 +4,7 @@ This is a low-code app. Most interesting part of it is the screen designs.  The 
 
 ## Screen images
 
-![](image1.png)
-![](image2.png)
-![](image3.png)
-![](image4.png)
+See [README](README.md).
 
 ## Installation 
 
